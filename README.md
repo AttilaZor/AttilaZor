@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Attila!
+- 🌱 I’m currently learning C and Java.
+- 📫 How to reach me: attilayzor@gmail.com
